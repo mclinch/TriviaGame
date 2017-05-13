@@ -1,0 +1,53 @@
+
+
+body {
+	/*background-image: url()*/
+	background: url("../images/teddy-kelley-187686.jpg") no-repeat center center fixed; 
+  	/*-webkit-background-size: cover;*/
+  	/*-moz-background-size: cover;*/
+  	/*-o-background-size: cover;*/
+  	background-size: cover;
+}
+
+.start-button {
+	background: white;
+	color: black;
+}
+
+.start-button:hover {
+	background: #8EBBE2;
+}
+
+.main-button-container {
+  margin-top: 20px;
+}
+
+.jumbotron {
+	background-color: transparent;
+
+}
+
+.answer:hover {
+  background: #8EBBE2;
+}
+
+.answer {
+  padding-top: 7px;
+  height: 45px;
+  color: black;
+  padding-left: 14px;
+  background-color: white;
+  border-radius: 4px;
+}
+
+.reset-button {
+  margin-top: 40px;
+  background-color: white;
+  color: black;
+}
+
+.reset-button:hover {
+	background: #8EBBE2;
+}
+
+
